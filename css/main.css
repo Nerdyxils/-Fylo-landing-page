@@ -489,6 +489,7 @@ footer {
     }
 
     footer .logo {
+        margin-top: 50px;
         margin-left: 20px;
     }
 
@@ -499,6 +500,7 @@ footer {
 
     .footer .contact {
         margin-left: -20px;
+        margin-bottom: 30px;
     }
 
     .footer .social-icons {
@@ -525,6 +527,6 @@ footer {
     }
 
     .attribution {
-        margin-top: 50px;
+        margin-top: 10px;
     }
 }
